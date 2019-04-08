@@ -1,0 +1,3 @@
+rootProject.name = 'genomedge_2067'
+
+include ':app'
